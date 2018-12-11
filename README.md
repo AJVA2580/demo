@@ -5,3 +5,4 @@ Adding a new test line PART 2
 Checkout my new branch
 New update on this branch X 2
 Another thing going on
+MORE AND MORE
